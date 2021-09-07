@@ -1,0 +1,9 @@
+oliver open chrome
+oliver open youtube
+oliver open calculator
+oliver open sublimetext
+oliver terminate
+oliver close chrome
+oliver close youtube
+oliver close calculator
+oliver close sublimetext
